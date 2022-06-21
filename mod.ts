@@ -33,3 +33,4 @@ export * from "./_src/index.shared.ts";
 
 export * as reflection from "./_src/reflection/index.ts";
 export * as $ from "./_src/reflection/index.ts";
+export * from "./_src/reflection/index.ts"
